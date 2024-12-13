@@ -4,7 +4,6 @@ My favorite flavors:
     banana
     one
     two
-    four
     six
     seven
     hello
