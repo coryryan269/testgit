@@ -7,6 +7,7 @@ My favorite flavors:
     three
     seven
     hello
+    friend
     glove
     six
     four
