@@ -1,4 +1,4 @@
-# testgit
+
 My favorite flavors:
     vanilla
     banana
@@ -7,6 +7,6 @@ My favorite flavors:
     three
     seven
     hello
-    friend
+    glove
     six
     four
