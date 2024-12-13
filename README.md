@@ -4,10 +4,10 @@ My favorite flavors:
     banana
     one
     two
-    three
     four
     six
     seven
     hello
     friend
     six
+    four
