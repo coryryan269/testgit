@@ -1,2 +1,6 @@
 # testgit
-hello friend
+My favorite flavors:
+    chocolate
+    vanilla
+    strawberry
+    banana
