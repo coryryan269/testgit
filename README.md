@@ -1,6 +1,12 @@
 # testgit
 My favorite flavors:
-    chocolate
     vanilla
-    strawberry
     banana
+    caramel
+    one
+    two
+    three
+    four
+    five
+    six
+    seven
