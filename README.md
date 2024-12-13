@@ -5,7 +5,7 @@ My favorite flavors:
     one
     two
     three
-    seve
+    seven
     hello
     friend
     four
