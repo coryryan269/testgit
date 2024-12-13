@@ -8,6 +8,4 @@ My favorite flavors:
     seven
     hello
     friend
-    glove
-    six
     four
